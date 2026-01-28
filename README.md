@@ -23,7 +23,7 @@
 * 🏫 **Faculty:** Faculty of Computers & Artificial Intelligence
 * 🏆 **Current Focus:** Competitive Programming & Fundamentals
 * 📚 **Learning:** `Data Engineering` track to build scalable data solutions
-* 🧐 **Passionate** about problem-solving and continuous learning
+* 🧐 **Passionate** About problem-solving and continuous learning
 
 ---
 
