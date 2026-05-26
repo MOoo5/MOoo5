@@ -22,7 +22,7 @@
 * 🎓 **Major:** `Computer Science`
 * 🏫 **Faculty:** Faculty of Computers & Artificial Intelligence
 * 🏆 **Current Focus:** Competitive Programming & Fundamentals
-* 📚 **Learning:** `Data Engineering` track to build scalable data solutions
+* 📚 **Learning:** `Data Analysis` track to build scalable data solutions
 * 🧐 **Passionate** About problem-solving and continuous learning
 
 ---
